@@ -1,36 +1,43 @@
-<div align="center">
-
+```md
 # Hi, I'm Moji 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+Developer;Building+Useful+Software" />
+💻 Former Web Developer & UI/UX Designer  
+🤖 Currently focused on AI, LLMs & AI Automation  
+🌍 Building open-source tools from the Netherlands
+
+## What I'm working on 👨‍💻
+
+- 🤖 Building AI-powered tools and developer utilities
+- 🧠 Exploring LLMs, Agents, MCP & Automation
+- 🚀 Turning everyday problems into open-source projects
+
+## Tech I enjoy ⚡
+
+### Languages & Frameworks
 
 <p>
-  <img src="https://img.shields.io/badge/AI-Engineer-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-black?style=flat-square"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square"/>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,react,nextjs,laravel" />
 </p>
 
-</div>
+### AI Stack
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-0A84FF?style=for-the-badge" />
+</p>
+
+## Find me elsewhere 🌎
+
+- 🌐 Website
+- 💼 LinkedIn
+- ✈️ Telegram
+- 📧 Email
 
 ---
 
-I'm a developer with a background in **Web Development**, **UI/UX**, and **Digital Design**.
-
-These days, I'm focused on **Artificial Intelligence**, building practical tools with **LLMs**, automation, and modern AI technologies.
-
-Most repositories here started as tools I built for myself. If they help you solve a problem or spark an idea, they've done their job.
-
-### 🛠 Tech
-
-`Python` • `JavaScript` • `TypeScript` • `PHP` • `React` • `Next.js` • `Laravel` • `Docker` • `Git`
-
-### 🤖 AI
-
-`OpenAI` • `Gemini` • `Anthropic` • `Ollama` • `LangChain` • `LlamaIndex` • `MCP`
-
-### 📈 GitHub
-
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true"/>
-</p>
+> *I build the tools I wish already existed.*
+```
